@@ -103,6 +103,6 @@
   },
   "dependencies": {
     "prop-types": "^15.5.8",
-    "react-transition-group": "^1.1.2"
+    "react-transition-group": "2.2.1"
   }
 }
